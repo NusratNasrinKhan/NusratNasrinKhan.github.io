@@ -16,9 +16,9 @@ title: 'amiright?'
  weaknesses: 
   - singing
   - green lantern movie
-  - tennis backhand 
+  - tennis backhand
 ## gosling:
- strengths: 
+  strengths: 
   - builds houses
   - is a real boy
   - never dated alanis morissette
