@@ -1,5 +1,9 @@
 ---
 layout: liquid-table
+---
+  
+{{ content }}
+
 title: 'amiright?'
 reynolds:
   strengths:
