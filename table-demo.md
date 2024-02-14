@@ -3,30 +3,29 @@
 layout: liquid-table
 title: 'amiright?'
 ---
----
 ![](img/ryan-v-ryan.jpg)  
 ![ryan-v-ryan](https://github.com/NusratNasrinKhan/NusratNasrinKhan.github.io/assets/139189697/d0592e80-ea45-477a-a25e-b6dc095c7733)
 --- 
-reynolds:
+## reynolds:
   strengths:
   - good father
   - funny
   - dated alanis morissette
----
- reynolds:
+
+
   weaknesses: 
   - singing
   - green lantern movie
   - tennis backhand 
 ---
 ---
-gosling:
+## gosling:
   strengths: 
   - builds houses
   - is a real boy
   - never dated alanis morissette
----
-gosling:
+
+
   weaknesses: 
   - micky mouse club
   - cries a lot
