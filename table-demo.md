@@ -15,7 +15,6 @@ title: 'amiright?'
   - singing
   - green lantern movie
   - tennis backhand 
-
 ## gosling:
   strengths: 
   - builds houses
@@ -27,7 +26,7 @@ title: 'amiright?'
   - micky mouse club
   - cries a lot
   - not ryan reynolds
----
+
 
 
 ## Lorem Ipsum
@@ -40,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <hr>
 
-
+---
 
 
           
