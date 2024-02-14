@@ -11,6 +11,8 @@ title: 'amiright?'
   - good father
   - funny
   - dated alanis morissette
+  
+  
   weaknesses: 
   - singing
   - green lantern movie
