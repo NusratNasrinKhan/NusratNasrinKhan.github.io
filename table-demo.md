@@ -13,7 +13,7 @@ title: 'amiright?'
   - dated alanis morissette
   
   
-  weaknesses: 
+ weaknesses: 
   - singing
   - green lantern movie
   - tennis backhand 
@@ -22,7 +22,6 @@ title: 'amiright?'
   - builds houses
   - is a real boy
   - never dated alanis morissette
-
 
   weaknesses: 
   - micky mouse club
