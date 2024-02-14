@@ -12,7 +12,8 @@ reynolds:
   - good father
   - funny
   - dated alanis morissette
---
+---
+ reynolds:
   weaknesses: 
   - singing
   - green lantern movie
@@ -24,7 +25,8 @@ gosling:
   - builds houses
   - is a real boy
   - never dated alanis morissette
---
+---
+gosling:
   weaknesses: 
   - micky mouse club
   - cries a lot
