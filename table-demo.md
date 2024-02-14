@@ -18,7 +18,7 @@ title: 'amiright?'
   - green lantern movie
   - tennis backhand
 ## gosling:
-strengths: 
+  strengths: 
   - builds houses
   - is a real boy
   - never dated alanis morissette
