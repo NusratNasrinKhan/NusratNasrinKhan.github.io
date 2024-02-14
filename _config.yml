@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nnkhan3@asu.edu"
-  facebook: "/nusrat.khan.7543653/"
+  facebook: "nusrat.khan.7543653/"
   github: " "
-  twitter: "/Hydro_Logic_NNK"
+  twitter: "Hydro_Logic_NNK"
 #  patreon: " "
-  youtube: "/@nusratnasrinkhan1218"
+  youtube: "@nusratnasrinkhan1218"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -74,11 +74,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  youtube: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "NusratNasrinKhan.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
