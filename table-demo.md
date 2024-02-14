@@ -3,6 +3,7 @@
 layout: liquid-table
 title: 'amiright?'
 ---
+---
 ![](img/ryan-v-ryan.jpg)  
 ![ryan-v-ryan](https://github.com/NusratNasrinKhan/NusratNasrinKhan.github.io/assets/139189697/d0592e80-ea45-477a-a25e-b6dc095c7733)
  
@@ -33,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <a href="https://github.com/DS4PS/barebones-jekyll/blob/master/_layouts/liquid-table.html" target = "_blank"> 
          
-</a>
+
 
 <hr>
 
